@@ -46,25 +46,25 @@ include_once('layout/header.php');
             <div class="flex items-center gap-10">
                 <div class="grid grid-cols-1 2xl:grid-cols-4 justify-center gap-4 2xl:gap-8 mx-4 sm:mx-12 md:mx-24 2xl:mx-auto select-none">
                     <div class="group/gallery px-2.5 py-2.5 pb-2 sm:pb-8 bg-gradient-to-b from-white to-whiteblue w-1000px h-full md:h-200px sm:h-250px md:h-300px max-w-full 2xl:max-w-xl rounded shadow-lg">
-                        <img class="max-h-full w-full brightness-75 2xl:group-hover/gallery:brightness-100 transition" src="Image/tugboat.jpg" alt="Tugboat">
+                        <img class="max-h-full w-full brightness-75 2xl:group-hover/gallery:brightness-100 transition" src="Image/absensi.png" alt="Tugboat">
                         <div class="group justify-center flex items-center">
                             <span class="text-dark group-hover:text-dark-tp group-active:text-dark-tp font-space-grotesk mt-1.5 2xl:mt-0.5 text-sm 2xl:text-lg 2xl:invisible 2xl:group-hover/gallery:visible uppercase">Tugboat</span>
                         </div>
                     </div>
                     <div class="group/gallery px-2.5 py-2.5 pb-2 sm:pb-8 bg-gradient-to-b from-white to-whiteblue w-1000px h-full md:h-200px sm:h-250px md:h-300px max-w-full 2xl:max-w-xl rounded shadow-lg">
-                        <img class="max-h-full w-full brightness-75 2xl:group-hover/gallery:brightness-100 transition" src="Image/barge.png" alt="Barge">
+                        <img class="max-h-full w-full brightness-75 2xl:group-hover/gallery:brightness-100 transition" src="Image/roster.png" alt="Barge">
                         <div class="group justify-center flex items-center">
                             <span class="text-dark group-hover:text-dark-tp group-active:text-dark-tp font-space-grotesk mt-1.5 2xl:mt-0.5 text-sm 2xl:text-lg 2xl:invisible 2xl:group-hover/gallery:visible uppercase">Tongkang</span>
                         </div>
                     </div>
                     <div class="group/gallery px-2.5 py-2.5 pb-2 sm:pb-8 bg-gradient-to-b from-white to-whiteblue w-1000px h-full md:h-200px sm:h-250px md:h-300px max-w-full 2xl:max-w-xl rounded shadow-lg">
-                        <img class="max-h-full w-full brightness-75 2xl:group-hover/gallery:brightness-100 transition" src="Image/repair.jpg" alt="Repair">
+                        <img class="max-h-full w-full brightness-75 2xl:group-hover/gallery:brightness-100 transition" src="Image/job-order.png" alt="Repair">
                         <div class="group justify-center flex items-center">
                             <span class="text-dark group-hover:text-dark-tp group-active:text-dark-tp font-space-grotesk mt-1.5 2xl:mt-0.5 text-sm 2xl:text-lg 2xl:invisible 2xl:group-hover/gallery:visible uppercase">Perbaikan</span>
                         </div>
                     </div>
                     <div class="group/gallery px-2.5 py-2.5 pb-2 sm:pb-8 bg-gradient-to-b from-white to-whiteblue w-1000px h-full md:h-200px sm:h-250px md:h-300px max-w-full 2xl:max-w-xl rounded shadow-lg">
-                        <img class="max-h-full w-full brightness-75 2xl:group-hover/gallery:brightness-100 transition" src="Image/production.jpg" alt="Production">
+                        <img class="max-h-full w-full brightness-75 2xl:group-hover/gallery:brightness-100 transition" src="Image/laporan-joborder.png" alt="Production">
                         <div class="group justify-center flex items-center">
                             <span class="text-dark group-hover:text-dark-tp group-active:text-dark-tp font-space-grotesk mt-1.5 2xl:mt-0.5 text-sm 2xl:text-lg 2xl:invisible 2xl:group-hover/gallery:visible uppercase">Pembuatan</span>
                         </div>
